@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CSharpMotivate
+namespace CSharpInterpreter
 {
     public class HundredExpression : Expression
     {

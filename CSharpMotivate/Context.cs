@@ -1,4 +1,4 @@
-﻿namespace CSharpMotivate
+﻿namespace CSharpInterpreter
 {
     /// <summary>
     /// 公共类，定义一些全局信息

@@ -47,9 +47,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpChainOfResponsibility
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpVistor", "CSharpVistor\CSharpVistor.csproj", "{D876637A-F88E-4A61-8CAE-458F6DB5B3C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpMemento", "CSharpMemento\CSharpMemento.csproj", "{FEFE108A-D531-48CE-A36D-796B1B33BA4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpMemento", "CSharpMemento\CSharpMemento.csproj", "{FEFE108A-D531-48CE-A36D-796B1B33BA4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpMotivate", "CSharpMotivate\CSharpMotivate.csproj", "{47BAD21B-C1C2-4B06-BBE5-D2B0C4776B6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpInterpreter", "CSharpMotivate\CSharpInterpreter.csproj", "{47BAD21B-C1C2-4B06-BBE5-D2B0C4776B6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
